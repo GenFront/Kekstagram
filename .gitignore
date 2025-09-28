@@ -1,0 +1,8 @@
+/photos/
+/vendor/
+/node_modules/
+*.jpg
+*.jpeg
+package-lock.json
+.DS_Store
+*.log
